@@ -1,0 +1,4 @@
+CMakeLists.txt
+!ro*/CMakeLists.txt
+!ta*/CMakeLists.txt
+*.opd
